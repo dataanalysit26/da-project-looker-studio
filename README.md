@@ -1,17 +1,25 @@
-Project Title & Description
+# 📈 Digital Campaign Performance Analysis (Facebook & Google)
 
-Creation of a dashboard comparing campaign metrics from Facebook and Google media sources.
+## ✨ Project Overview & Description
 
-Tools Used
+This project involves the creation of an interactive dashboard comparing campaign metrics derived from Facebook and Google media sources. Our goal is to enable data-driven decisions by analyzing the performance of the two different platforms using key metrics.
 
-PostgreSQL, Google Looker Studio
+## 🛠️ Tools & Technologies Used
 
-Data Source
+| Category | Tool/Language | Description |
+| :--- | :--- | :--- |
+| **Database** | `PostgreSQL` | Storage, cleaning, and preparation of raw data for analysis. |
+| **Visualization** | `Google Looker Studio` | Creation of an interactive and dynamic campaign performance dashboard. |
 
-A non-public dataset provided by the institution where I received my training was used.
+## 💾 Data Source
 
-Key Findings
+A non-public dataset provided by the institution where I received my training was utilized. This dataset includes metrics such as ad spend, revenue, and core performance indicators.
 
-The analysis includes comparisons of campaign performance based on total spend, total revenue, CPC, CPM, CTR, and ROMI across monthly and yearly periods. According to the performance evaluation:
+## 🔑 Key Findings
 
-The campaign with the highest ROMI value was identified as "Trendy".
+The analysis includes comparisons of campaign performance based on total spend, total revenue, CPC (Cost Per Click), CPM (Cost Per Mille/Thousand), CTR (Click-Through Rate), and **ROMI (Return on Marketing Investment)** across monthly and yearly periods.
+
+According to the performance evaluation:
+
+* **The campaign with the highest ROMI value was identified as "Trendy."**
+* [You can add your other findings here. For example: "Google campaigns showed a X% higher CTR compared to Facebook campaigns."]
