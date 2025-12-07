@@ -21,5 +21,8 @@ The analysis includes comparisons of campaign performance based on total spend, 
 
 According to the performance evaluation:
 
-* **The campaign with the highest ROMI value was identified as "Trendy."**
-* [You can add your other findings here. For example: "Google campaigns showed a X% higher CTR compared to Facebook campaigns."]
+### Year-over-Year Efficiency Analysis
+* **Efficiency Constraint:** Although total expenditure increased significantly between 2021 and 2022, the overall **ROMI value remained nearly constant**. This indicates that the increase in budget and the corresponding rise in the number of campaigns did not yield a proportionally higher profitability.
+* **Core Campaign Focus:** Across both periods, the highest ROMI values were consistently achieved by the same campaigns: **"Trendy," "Promos," and "Lookalike."** The majority of successful results stem from these three core campaigns.
+
+***Recommendation:*** Future budgeting strategies should focus on concentrating expenditure heavily on these three high-performing campaigns to ensure the expected profit increase is realized from budget growth.
